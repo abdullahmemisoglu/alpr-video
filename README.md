@@ -18,6 +18,7 @@
 
 ### Installing pytesseract
 **1**. Install tesseract using windows installer available at: [Install tesseract for windows](https://github.com/UB-Mannheim/tesseract/wiki)
+
 **2**. Note the tesseract path from the installation. Default installation path at the time of this edit was:  `C:\Users\USER\AppData\Local\Tesseract-OCR`. It may change so please check the installation path.
 
 **3**.  `pip install pytesseract`
